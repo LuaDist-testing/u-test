@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "u-test"
-version = "1.0.4-0"
+version = "1.0.5-0"
 -- LuaDist source
 source = {
-  tag = "1.0.4-0",
+  tag = "1.0.5-0",
   url = "git://github.com/LuaDist-testing/u-test.git"
 }
 -- Original source
