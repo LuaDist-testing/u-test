@@ -1,8 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "u-test"
 version = "1.1.0-0"
+-- LuaDist source
 source = {
-    url = "git://github.com/iudalov/u-test"
+  tag = "1.1.0-0",
+  url = "git://github.com/LuaDist-testing/u-test.git"
 }
+-- Original source
+-- source = {
+--     url = "git://github.com/iudalov/u-test"
+-- }
 
 description = {
     summary = "Sane and simple unit testing framework for Lua",
